@@ -11,6 +11,7 @@ Reference examples from Introduction to Generative Typography workshops held as 
 - Processing
 - Geomerative Library
 - Fontastic Library
+- ControlP5
 
 Solid understanding of Processing's basics is enough to begin but there are some intermediate to advanced concepts depending on what you want to create. You should be familiar with arrays and object-oriented programming.
 
