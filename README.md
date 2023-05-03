@@ -11,9 +11,9 @@ Reference examples from Introduction to Generative Typography workshops held as 
 - Processing
 - Geomerative Library
 - Fontastic Library
-- ControlP5
+- ControlP5 Library
 
-Solid understanding of Processing's basics is enough to begin but there are some intermediate to advanced concepts depending on what you want to create. You should be familiar with arrays and object-oriented programming.
+Solid understanding of Processing's basics is enough to begin but there are many intermediate to advanced concepts depending on what you want to create. You should be familiar with arrays and object-oriented programming.
 
 For the purpose of this class I'm using Free Sans. You can use any font you like.
 
@@ -25,7 +25,7 @@ For the purpose of this class I'm using Free Sans. You can use any font you like
 2. Press any key to save as a font.
 3. Inside processing sketch open data -> My custom font -> bin.
 4. Inside that folder you can preview your font and install the *.ttf font.
-5. The code sets the character width but you should use optical kerning to avoid headaches when manually setting the spacing.
+5. The code sets the character width but you should use optical kerning in Illustrator to avoid headaches when manually setting the spacing.
 
 ### Anatomy of a letter:
 There are approx. 35-40 unique characteristics. Below are some of them. Many people aren't aware how complex is Typography as a design discipline.
